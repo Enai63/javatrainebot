@@ -5,7 +5,10 @@
   <groupId>ru.bot</groupId>
   <artifactId>javatrainebot</artifactId>
   <version>0.0.1A</version>
-  <packaging>jar</packaging>
+  <modules>
+    <module>main-bt</module>
+  </modules>
+  <packaging>pom</packaging>
 
   <name>javatrainebot</name>
 

@@ -1,0 +1,10 @@
+package ru.bot;
+
+import org.junit.jupiter.api.Test;
+
+class AppTest {
+
+    @Test
+    void main() {
+    }
+}
