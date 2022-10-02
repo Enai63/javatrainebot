@@ -4,19 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a72f4d-8116-4a61-9b7d-bc94503b32ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main-bt/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-bt/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-bt/src/main/java/ru/bot/App.java" afterDir="false" />
+    <list default="true" id="24a72f4d-8116-4a61-9b7d-bc94503b32ee" name="Changes" comment="Add class Bot">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-bt/src/main/java/ru/bot/Bot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -67,7 +72,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "34643db816a44459e0ef9b037c0bba82",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -116,6 +125,13 @@
       <option name="presentableId" value="Default" />
       <updated>1660393190000</updated>
       <workItem from="1660393192071" duration="6941000" />
+      <workItem from="1660564086983" duration="1948000" />
+      <workItem from="1661684838219" duration="751000" />
+      <workItem from="1661685607584" duration="2423000" />
+      <workItem from="1661859974221" duration="1439000" />
+      <workItem from="1662117262704" duration="20000" />
+      <workItem from="1664689022264" duration="383000" />
+      <workItem from="1664689423971" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <created>1660412259743</created>
@@ -130,11 +146,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+    <MESSAGE value="Add class Bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add class Bot" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
